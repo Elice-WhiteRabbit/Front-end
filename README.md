@@ -6,6 +6,9 @@
 
 <br>
 
+## 프로젝트 우수상
+![image](https://github.com/Elice-WhiteRabbit/Front-end/assets/39878215/95026b6e-b4d5-471f-a3bf-b1402f04fcdb)
+
 ## 👩🏻‍💻 팀원 소개
   
 | FRONTEND | BACKEND |
